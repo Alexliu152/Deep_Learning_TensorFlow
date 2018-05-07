@@ -1,0 +1,51 @@
+average_loss: 24884.41
+global_step: 2400552
+loss: 228936.58
+Parsing Tensor("arg0:0", shape=(), dtype=string)
+1 : {'predictions': array([416.73682], dtype=float32)}
+2 : {'predictions': array([209.9147], dtype=float32)}
+3 : {'predictions': array([408.1081], dtype=float32)}
+4 : {'predictions': array([488.13443], dtype=float32)}
+5 : {'predictions': array([124.87539], dtype=float32)}
+6 : {'predictions': array([154.7399], dtype=float32)}
+7 : {'predictions': array([375.17923], dtype=float32)}
+8 : {'predictions': array([488.13443], dtype=float32)}
+9 : {'predictions': array([289.5718], dtype=float32)}
+10 : {'predictions': array([76.08899], dtype=float32)}
+11 : {'predictions': array([104.00676], dtype=float32)}
+12 : {'predictions': array([60.58414], dtype=float32)}
+13 : {'predictions': array([405.5839], dtype=float32)}
+14 : {'predictions': array([9.284096], dtype=float32)}
+15 : {'predictions': array([464.53903], dtype=float32)}
+16 : {'predictions': array([481.18375], dtype=float32)}
+17 : {'predictions': array([289.5718], dtype=float32)}
+18 : {'predictions': array([145.00922], dtype=float32)}
+19 : {'predictions': array([232.65942], dtype=float32)}
+20 : {'predictions': array([488.13443], dtype=float32)}
+21 : {'predictions': array([130.44211], dtype=float32)}
+22 : {'predictions': array([427.02145], dtype=float32)}
+23 : {'predictions': array([424.53455], dtype=float32)}
+24 : {'predictions': array([87.81041], dtype=float32)}
+25 : {'predictions': array([-4.2682953], dtype=float32)}
+26 : {'predictions': array([436.78836], dtype=float32)}
+27 : {'predictions': array([87.81041], dtype=float32)}
+28 : {'predictions': array([256.25482], dtype=float32)}
+29 : {'predictions': array([375.17923], dtype=float32)}
+30 : {'predictions': array([29.47099], dtype=float32)}
+31 : {'predictions': array([257.2204], dtype=float32)}
+32 : {'predictions': array([209.9147], dtype=float32)}
+33 : {'predictions': array([73.767296], dtype=float32)}
+34 : {'predictions': array([219.95773], dtype=float32)}
+35 : {'predictions': array([454.9392], dtype=float32)}
+36 : {'predictions': array([88.578285], dtype=float32)}
+37 : {'predictions': array([421.6605], dtype=float32)}
+38 : {'predictions': array([32.02881], dtype=float32)}
+39 : {'predictions': array([395.04987], dtype=float32)}
+40 : {'predictions': array([365.66684], dtype=float32)}
+41 : {'predictions': array([69.17494], dtype=float32)}
+42 : {'predictions': array([104.00676], dtype=float32)}
+43 : {'predictions': array([62.749725], dtype=float32)}
+44 : {'predictions': array([32.02881], dtype=float32)}
+45 : {'predictions': array([219.95773], dtype=float32)}
+46 : {'predictions': array([127.34842], dtype=float32)}
+[Finished in 509.5s]
